@@ -1,0 +1,18 @@
+# Currency Converter
+
+## Overview
+
+The Currency Converter is a simple Java console application that converts currency values between US Dollars (USD) and Indian Rupees (INR). This project demonstrates the use of Java programming concepts such as user input, conditional statements, arithmetic operations, and console-based interaction.
+
+## Features
+
+- Convert USD to INR
+- Convert INR to USD
+- Simple menu-driven interface
+- Easy-to-use console application
+- Fast and accurate conversion calculations
+
+## Technologies Used
+
+- Java
+- IntelliJ IDEA
